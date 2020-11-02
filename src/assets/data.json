@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "votes": null,
+    "name": "stickerName",
+    "img": "0.jpg",
+    "limited": false,
+    "desc": "stickerDesc",
+    "amount": 1,
+    "franchise": "programming"
+  },
+  {
+    "id": 1,
+    "votes": null,
+    "name": "stickerName",
+    "img": "1.jpg",
+    "limited": false,
+    "desc": "stickerDesc",
+    "amount": 1,
+    "franchise": "programming"
+  },
+  {
+    "id": 2,
+    "votes": null,
+    "name": "stickerName",
+    "img": "2.jpg",
+    "limited": false,
+    "desc": "stickerDesc",
+    "amount": 1,
+    "franchise": "programming"
+  },
+  {
+    "id": 3,
+    "votes": null,
+    "name": "stickerName",
+    "img": "3.jpg",
+    "limited": false,
+    "desc": "stickerDesc",
+    "amount": 1,
+    "franchise": "programming"
+  },
+  {
+    "id": 4,
+    "votes": null,
+    "name": "stickerName",
+    "img": "4.jpg",
+    "limited": false,
+    "desc": "stickerDesc",
+    "amount": 1,
+    "franchise": "programming"
+  }
+]

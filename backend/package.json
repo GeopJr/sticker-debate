@@ -1,0 +1,22 @@
+{
+  "name": "sticker-backend",
+  "version": "0.0.1",
+  "description": "Sticker-debate's backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "jsoning": "^0.8.15",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "lowdb"
+  ],
+  "license": "MIT"
+}
